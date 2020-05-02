@@ -1,0 +1,84 @@
+{
+    "grocery" :[
+        {
+            "SerialNo" : "1",
+            "Name" : "Tea Powder",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Buy Kannan Devan only"
+        },
+        {
+            "SerialNo" : "2",
+            "Name" : "Sugar",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Do not buy brown sugar"
+        },
+        {
+            "SerialNo" : "3",
+            "Name" : "Cooking oil",
+            "Quantity" : "1",
+            "Unit" : "Litre",
+            "Department" : "Food Item",
+            "Notes" : "Buy Gold Winner"
+        },
+        {
+            "SerialNo" : "4",
+            "Name" : "Wheat Powder",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Make sure to buy Aashirvad"
+        },
+        {
+            "SerialNo" : "5",
+            "Name" : "Rice Powder",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Make sure to buy Nice Puttu powder"
+        },
+        {
+            "SerialNo" : "6",
+            "Name" : "Salt",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Check expiry"
+        },
+        {
+            "SerialNo" : "7",
+            "Name" : "Milk",
+            "Quantity" : "1",
+            "Unit" : "Litre",
+            "Department" : "Food Item",
+            "Notes" : "Buy Milma only and check expiry"
+        },
+        {
+            "SerialNo" : "8",
+            "Name" : "Chilli Powder",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Make sure its Eastern"
+        },
+        {
+            "SerialNo" : "9",
+            "Name" : "Corriander Powder",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Make sure its Eastern"
+        },
+        {
+            "SerialNo" : "10",
+            "Name" : "Turmeric Powder",
+            "Quantity" : "1",
+            "Unit" : "Kilogram",
+            "Department" : "Food Item",
+            "Notes" : "Make sure its Eastern"
+        }
+    ]
+}
